@@ -6,4 +6,4 @@
 6. git branch -- информация о ветке
 7. git reset [filename] -- убирает файл из stage
 8. git diff [filename] -- отображает изменения в файле
-9. git reset --hard -- убирает все изменения из файлов и очищает status
+9. git reset --hard -- убирает все изменения из файлов (до коммита) и очищает status
